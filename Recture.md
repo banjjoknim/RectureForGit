@@ -968,24 +968,3 @@ CLI의 `git init` 명령어와 동일한 역할을 수행합니다.
 ---
 
 ![thankyou](https://user-images.githubusercontent.com/68052095/95304030-f4467a00-08be-11eb-9b70-62233d24a0eb.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
