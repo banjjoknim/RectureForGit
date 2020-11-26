@@ -10,11 +10,11 @@ presentedAt: 2020-10-06
 
 ### 2. Git & GitHub 주요 개념 소개
 
-### 3. CLI vs GUI
+### 3. CLI && GUI
 
-### 4. CLI
+### 4. Git의 명령어
 
-### 5. GUI
+### 5. SourceTree
 
 ### 6. .gitignore
 ---
@@ -25,6 +25,8 @@ presentedAt: 2020-10-06
 **`버전(version)`** 은 구체적인 한 단어로 명시하기는 힘들지만 의미있는 변화 또는 그 변화가 적용된 상태라고 할 수 있습니다.
 
 ![version_description](https://user-images.githubusercontent.com/68052095/95172086-c9dabb00-07f1-11eb-9370-b137555ab7ca.PNG)
+
+- 이미지 출처 : [네이버 지식백과](https://terms.naver.com/entry.nhn?docId=1181091&cid=40942&categoryId=32828)
 ---
 # VCS(Version Control System)
 
@@ -32,6 +34,8 @@ presentedAt: 2020-10-06
 
 ![patch_note](https://user-images.githubusercontent.com/68052095/95172172-e676f300-07f1-11eb-8d0b-ee8e526ce858.png)
 ![hotfix](https://user-images.githubusercontent.com/68052095/95172276-09a1a280-07f2-11eb-8dc0-c35c2dfd2504.jpg)
+
+- 이미지 출처 : [리그 오브 레전드 패치 노트](https://kr.leagueoflegends.com/ko-kr/news/tags/patch-notes)
 
 ---
 # VCS(Version Control System)
@@ -46,6 +50,8 @@ presentedAt: 2020-10-06
 ![save_load](https://user-images.githubusercontent.com/68052095/95172372-2f2eac00-07f2-11eb-9a4f-74a10f2e9d4a.png)
 ![reset](https://user-images.githubusercontent.com/68052095/95172395-3bb30480-07f2-11eb-8893-63e61ea2c8e4.png)
 
+- 이미지 출처 : [디아블로2 관련 포스팅](http://blog.gorekun.com/?p=1272), [언더테일](https://undertale.com/)
+
 ---
 # VCS(Version Control System)
 
@@ -54,6 +60,8 @@ presentedAt: 2020-10-06
 하나의 프로젝트는 마치 거대한 배와도 같습니다.
 
 ![ship](https://user-images.githubusercontent.com/68052095/95172410-42417c00-07f2-11eb-8ac2-4fa122b105a8.jpg)
+
+- 이미지 출처 : `삼성중공업 OOCL HONGKONG`
 
 ---
 # VCS(Version Control System)
@@ -66,7 +74,7 @@ presentedAt: 2020-10-06
 
 ![cloud](https://user-images.githubusercontent.com/68052095/95172413-440b3f80-07f2-11eb-94a3-2e45ba65db86.jpeg)
 
-- 
+- 이미지 출처 : [네이버 N드라이브(~~현재는 네이버 클라우드로 대체~~)](https://www.navercloudcorp.com/), [Google 드라이브](https://www.google.com/intl/ko_KR/drive/), [OneDrive](https://www.microsoft.com/ko-kr/microsoft-365/onedrive/online-cloud-storage)
 
 ---
 # VCS(Version Control System)
@@ -82,15 +90,21 @@ presentedAt: 2020-10-06
 
 ![wikipedia](https://user-images.githubusercontent.com/68052095/95172591-803ea000-07f2-11eb-9dd6-b4527a0b106c.PNG)
 
+- 이미지 출처 : [위키백과](https://ko.wikipedia.org/wiki/%EB%B2%84%EC%A0%84_%EA%B4%80%EB%A6%AC)
+
 ---
 # VCS(Version Control System)
 
 ![wikipedia2](https://user-images.githubusercontent.com/68052095/95172900-ec210880-07f2-11eb-82a9-533c7ea770cb.PNG)
 
+- 이미지 출처 : [위키백과 - 역사 보기](https://ko.wikipedia.org/w/index.php?title=%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EB%8C%80%EB%AC%B8&action=history)
+
 ---
 # VCS(Version Control System)
 
 ![wikipedia3](https://user-images.githubusercontent.com/68052095/95172902-edeacc00-07f2-11eb-8e50-22324bf85c73.PNG)
+
+- 이미지 출처 : [위키백과 - 역사 보기](https://ko.wikipedia.org/w/index.php?title=%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EB%8C%80%EB%AC%B8&action=history)
 
 ---
 # VCS(Version Control System)
@@ -106,6 +120,8 @@ presentedAt: 2020-10-06
 
 ![git](https://user-images.githubusercontent.com/68052095/95176217-86834b00-07f7-11eb-82b2-ffabcb918e32.png)
 
+- 이미지 출처 : [Git](https://git-scm.com/downloads/logos)
+>
 - 컴퓨터 파일의 변경사항을 추적하고 여러 명의 사용자들 간에 해당 파일들의 작업을 조율하기 위한 `분산 버전 관리 시스템(Distributed Version Control System)`이다.
 - 각각의 개발자가 중앙 서버에 접속하지 않은 상태에서도 코드 작업을 할 수 있다.
 - 독립적으로 작업한 다음에 변경사항에 대해서 선택적으로 반영, 유연한 채택이 가능하다.
@@ -114,6 +130,8 @@ presentedAt: 2020-10-06
 # Git
 
 ![staging_area](https://user-images.githubusercontent.com/68052095/95195970-4a111880-0812-11eb-810e-50041b2b855a.png)
+
+- 이미지 출처 : [Git Staging Area: Explained Like I'm Five](https://dev.to/sublimegeek/git-staging-area-explained-like-im-five-1anh)
 
 ---
 # Git
@@ -151,6 +169,8 @@ presentedAt: 2020-10-06
 
 ![branch](https://user-images.githubusercontent.com/68052095/95193268-82165c80-080e-11eb-99ba-5de27ee3beee.jpg)
 
+- 이미지 출처 : [branch](https://lokalise.com/blog/project-branching-using-tags/)
+
 ---
 # Git
 
@@ -171,7 +191,25 @@ presentedAt: 2020-10-06
   - 병합(merge)과 리베이스(rebase) 테스트
   - 이전 코드 개선
   - 특정 커밋으로 돌아가고 싶을 때
-  
+
+---
+# Git
+
+![pruning-thinning](https://user-images.githubusercontent.com/68052095/100348312-19877700-302a-11eb-8196-f39b959a4a15.jpg)
+
+- 이미지 출처 : [가지치기](https://www.sunset.com/garden/garden-basics/basic-pruning-cuts)
+
+#### 브랜치(branch)를 왜 사용해야 하나요?
+
+- **목적별로 분류하여 개발할 수 있다. 즉, 의도를 쉽게 알 수 있다.**
+- **독립적으로 작업할 수 있다. 즉, 한 사람의 작업이 다른 사람에게 영향을 미치지 않는다.** 
+- **하나의 소스코드로 동시에 여러가지 작업을 할 수 있다.**
+
+#### 브랜치(branch)를 꼭 사용해야 하나요?
+
+- **브랜치는 필요하다고 판단될 때 사용하면 됩니다.**
+
+
 ---
 # Git
 
@@ -200,6 +238,8 @@ presentedAt: 2020-10-06
 **Git으로 관리하는 프로젝트를 올릴 수 있는 호스팅 사이트중 하나입니다.**
 
 ![github](https://user-images.githubusercontent.com/68052095/95195588-b9d2d380-0811-11eb-9a62-60747e6643f3.jpeg)
+
+- 이미지 출처 : [GitHub](https://github.com/logos)
 
 ---
 # GitHub
@@ -244,6 +284,8 @@ presentedAt: 2020-10-06
   
 ![fork2](https://user-images.githubusercontent.com/68052095/95202053-c2c8a280-081b-11eb-91d0-bfb8be415308.png)
 
+- 이미지 출처 : [Github Desktop – Step 1 – Fork](https://www.classicpress.net/blog/github-desktop-step-1-fork/)
+
 ---
 # GitHub
 
@@ -273,6 +315,24 @@ GitHub에서 `fork`를 하는 방법은 간단합니다. 원본저장소에 들�
 
 ![pull_request](https://user-images.githubusercontent.com/68052095/95202375-323e9200-081c-11eb-899e-0a38abe25f07.png)
 
+- 이미지 출처 : [5 elements of a perfect pull request](https://www.atlassian.com/blog/bitbucket/5-pull-request-must-haves)
+
+---
+# GitHub
+
+### 코드 리뷰란?
+
+![pull_request5](https://user-images.githubusercontent.com/68052095/100341582-11c2d500-3020-11eb-842e-2df2d262ace8.png)
+
+한 명 또는 여러 명의 개발자가 본인이 만들지 않은 코드의 내용을 점검(examining)하고, 피드백을 주는 과정을 말합니다.
+
+### 코드 리뷰의 장점
+- **기능의 정상 동작 여부 검증**
+- **버그의 조기 발견**
+- **가독성과 유지보수 편의성등의 코드 개선**
+- **코드 리뷰를 통한 학습**
+- **...**
+
 ---
 # GitHub
 
@@ -287,7 +347,7 @@ GitHub에서 `fork`를 하는 방법은 간단합니다. 원본저장소에 들�
 
 ### Pull Request
 
-2. 다음과 같이 `pull request`를 작성하는 창이 나오고 작성해주시면 됩니다.
+2. 다음과 같이 `pull request`를 작성하는 창이 나오는데, 제목 및 내용을 작성해주시면 됩니다.
 
 ![pull_request3](https://user-images.githubusercontent.com/68052095/95204594-459f2c80-081f-11eb-8158-9b0fcf7d0d4f.png)
 
@@ -305,7 +365,7 @@ GitHub에서 `fork`를 하는 방법은 간단합니다. 원본저장소에 들�
 ![pull_request4](https://user-images.githubusercontent.com/68052095/95206856-2786fb80-0822-11eb-96c7-3a08d70a04bc.png)
 
 ---
-# CLI vs GUI
+# CLI & GUI
 
 ### CLI (Command Line Interface)
 
@@ -313,21 +373,10 @@ GitHub에서 `fork`를 하는 방법은 간단합니다. 원본저장소에 들�
 
 ![CLI](https://user-images.githubusercontent.com/68052095/95210057-06c0a500-0826-11eb-9e64-d43a88b55f27.png)
 
----
-# CLI vs GUI
-
-### CLI (Command Line Interface)
-
-장점
-- GUI보다 정확하고 섬세하다.
-
-단점
-- CLI는 명령어에 대한 지식이 필수적이다.
-- 오타 하나가 굉장히 큰 차이를 만들 수 있다.
-- 명령어들이 보통 직관적이지 않다.
+- 이미지 출처 : [Command Line Interface](https://namu.moe/w/CLI)
 
 ---
-# CLI vs GUI
+# CLI & GUI
 
 ### GUI (Graphical User Interface)
 
@@ -335,35 +384,10 @@ GitHub에서 `fork`를 하는 방법은 간단합니다. 원본저장소에 들�
 
 ![GUI](https://user-images.githubusercontent.com/68052095/95209744-a7fb2b80-0825-11eb-9bd9-9e21b56631cd.jpg)
 
----
-# CLI vs GUI
-
-### GUI (Graphical User Interface)
-
-장점
-- 사용법이 쉬워 누구나 쉽게 배우고 사용할 수 있다.
-- 매우 직관적이고 학습 곡선도 높지 않다.
-- 명령어들을 암기해야 할 필요가 없으며 복잡하지 않다.
-
-단점
-- CLI에 비해 세밀함이 떨어진다.
-- 어떤 일련의 절차를 반복(자동화)하거나 복사하기 힘들다.
+- 이미지 출처 : [Graphical User Interface](https://www.omnisci.com/technical-glossary/graphical-user-interface)
 
 ---
-# CLI vs GUI
-
-### 카테고리별 비교
-
-| Category   |      CLI      |  GUI |
-|----------|:-------------:|:------:|
-| 기본 입력 |  명령어를 통한 입력 | 창, 스크롤, 이미지 등을 통한 입력 |
-| 사용 장비 |    키보드   |   마우스, 키보드 |
-| 메모리 소비량 | 많음 |    적음 |
-| 속도 | 빠름 |    느림 |
-| 작업 수행 난이도 | 어려움 |    쉬움 |
-
----
-# CLI
+# Git의 명령어
 
 ### 명령줄 구문 표기
 
@@ -372,54 +396,29 @@ GitHub에서 `fork`를 하는 방법은 간단합니다. 원본저장소에 들�
 - 모든 입력들의 사이는 공백(" ")으로 구분됩니다.
 
 ---
-# CLI - `Git Bash`
+# Git의 명령어
 
-디렉토리를 우클릭한 뒤 `Git Bash Here`를 선택하여 디렉토리에서 바로 실행할 수 있습니다.
-
-폴더 내부에 존재하는 파일이나 디렉토리를 입력할경우, 일부를 입력하고 `Tab`을 누르면 자동완성 기능을 사용할 수 있습니다.
-
-1. **pwd** : `현재 폴더의 위치를 확인합니다.`
-
-
-2. **ls \[-a]** : `현재 폴더의 파일 목록을 확인합니다.`
-   - \[-a] 옵션을 이용하여 숨김 파일도 볼 수 있습니다.
-    
-
-3. **cd** : `홈 폴더로 이동합니다.`
-   - 홈 폴더는 사용자 이름과 폴더명이 같고 내 문서 폴더의 상위 폴더입니다.
-
-
-4. **cd <폴더이름>** : `특정 위치의 디렉토리로 이동합니다.`
-
-5. **cd ../** : `현재 폴더의 상위 폴더로 이동합니다.`
-
-6. **mkdir <새폴더이름>** : `지정한 이름으로 현재 디렉토리에 빈 폴더를 만듭니다.`
-
-
-7. **rmdir <폴더이름>** : `입력한 폴더를 제거합니다.`
-   - 대상 폴더가 비어있어야 제거가 가능합니다.
-   - 실행시 휴지통으로 가지 않고 그냥 사라집니다.
-    
-8. **echo "Hello Git"** : `화면에 " " 안의 문장인 "Hello Git"을 표시합니다.`
-   - 메아리 라는 뜻입니다.
-
-
-9. **cat <파일명>** : `파일의 내용을 화면에 표시합니다.`
-
-10. **clear** : `현재 화면에 표시된 문자열들을 모두 제거합니다.`
-
----
-# CLI - `Git`
+![git-init](https://user-images.githubusercontent.com/68052095/100332247-81cb5e00-3014-11eb-9deb-e85d3593153a.PNG)
 
 **git init**
 
 현재 위치한 디렉토리에서 `.git` 숨김폴더를 만듭니다. 즉, 현재 디렉토리를 `Local Repository`로 만듭니다.
+
+![git-status](https://user-images.githubusercontent.com/68052095/100332270-8728a880-3014-11eb-916d-4c7117562ce6.PNG)
+
+---
+# Git의 명령어
 
 **git status \[-s]**
 
 `Git 워킹트리의 상태를 보는 명령으로, 매우 자주 사용합니다.
 워킹트리가 아닌 폴더에서 실행하면 오류가 발생합니다.`
 - `[-s]` 옵션을 사용할 경우, git status 명령보다 짧게 요약해서 상태를 보여줍니다. 이는 변경된 파일이 많을 때 유용합니다.
+
+![git-log](https://user-images.githubusercontent.com/68052095/100332251-82fc8b00-3014-11eb-9ec2-2adb4c83afae.PNG)
+
+---
+# Git의 명령어
 
 **git log**
 
@@ -435,12 +434,14 @@ GitHub에서 `fork`를 하는 방법은 간단합니다. 원본저장소에 들�
 `자주 사용하는 옵션으로 간결하고 멋지게 보여줍니다.`
 
 >  - --oneline : 커밋 메시지를 한 줄로 요약해서 보여줍니다.
-  - --graph : 커밋 옆에 브랜치의 흐름을 그래프로 보여줍니다. GUI와 유사한 모습으로 나옵니다.
-  - --decorate : 원래는 --decorate=short 옵션을 의미한다. 브랜치와 태그 등의 참조를 간결히 표시합니다.
-  - --all : all 옵션이 없을 경우 HEAD와 관계없는 옵션은 보여주지 않습니다.
+>  - --graph : 커밋 옆에 브랜치의 흐름을 그래프로 보여줍니다. GUI와 유사한 모습으로 나옵니다.
+>  - --decorate : 원래는 --decorate=short 옵션을 의미한다. 브랜치와 태그 등의 참조를 간결히 표시합니다.
+>  - --all : all 옵션이 없을 경우 HEAD와 관계없는 옵션은 보여주지 않습니다.
   
 ---
-# CLI - `Git`
+# Git의 명령어
+
+![git-add, commit](https://user-images.githubusercontent.com/68052095/100332277-8b54c600-3014-11eb-8b0d-c3ffb95f204d.PNG)
 
 **git add <파일명>...**
 
@@ -455,16 +456,11 @@ GitHub에서 `fork`를 하는 방법은 간단합니다. 원본저장소에 들�
 
 - `[-m "메시지"]` 옵션을 사용하면 `" "`속의 메시지로 커밋을 만듭니다.
 - `[-a]` 옵션은 신규 파일을 제외하고 트래킹하는 모든 파일의 변경사항에 대해서 `git add` 명령어를 실행함과 동시에 커밋을 만들 수 있는 옵션입니다. `[-m]`과 함께 사용할 수 있습니다.
-
-**git push \[-u] \[원격저장소별명] \[브랜치이름]**
-
-`현재 브랜치에서 새로 생성한 커밋들을 원격저장소에 업로드합니다. [-u] 옵션으로 현재 브랜치의 업스트림 브랜치를 등록할 수 있습니다. 한 번 등록한 후에는 git push만 입력해도 됩니다.`
-
-- 옵션 `[-u]`가 가리키는 것은 `upstream` 이라는 것으로, 업스트림 브랜치는 로컬저장소와 연결된 원격저장소를 일컫는 단어입니다.
-- `[-u]`는 `--set-upstream`의 단축 명령입니다.
  
 ---
-# CLI - `Git`
+# Git의 명령어
+
+![git-remote](https://user-images.githubusercontent.com/68052095/100332253-82fc8b00-3014-11eb-937f-00d44359f7e4.PNG)
 
 **git remote add <원격저장소 이름> <원격저장소 주소>**
 
@@ -477,17 +473,22 @@ GitHub에서 `fork`를 하는 방법은 간단합니다. 원본저장소에 들�
 `원격저장소 목록을 살펴봅니다.`
 
 ---
-# CLI - `Git`
+# Git의 명령어
 
-**git rm \[--cached] \[-f] <파일명>**
+![git-push-error](https://user-images.githubusercontent.com/68052095/100333301-c60b2e00-3015-11eb-8122-7374c1fb09df.PNG)
+![git-push-origin-master](https://user-images.githubusercontent.com/68052095/100333303-c6a3c480-3015-11eb-83d1-f6267856162d.PNG)
 
-`원격저장소와 로컬저장소에 존재하는 해당 파일을 제거합니다.`
+**git push \[-u] \[원격저장소별명] \[브랜치이름]**
 
-- \[--cached] 옵션을 사용할 경우 원격저장소에 존재하는 파일만 제거합니다. 로컬저장소에 존재하는 파일은 삭제하지 않습니다.
-- 이후 파일 삭제 내역이 `커밋`되면 더이상 **Git은 해당 파일을 추적하지 않습니다.**
+`현재 브랜치에서 새로 생성한 커밋들을 원격저장소에 업로드합니다. [-u] 옵션으로 현재 브랜치의 업스트림 브랜치를 등록할 수 있습니다. 한 번 등록한 후에는 git push만 입력해도 됩니다.`
+
+- 옵션 `[-u]`가 가리키는 것은 `upstream` 이라는 것으로, 업스트림 브랜치는 로컬저장소와 연결된 원격저장소를 일컫는 단어입니다.
+- `[-u]`는 `--set-upstream`의 단축 명령입니다.
 
 ---
-# CLI - `Git`
+# Git의 명령어
+
+![git-clone](https://user-images.githubusercontent.com/68052095/100337134-5e0b1680-301a-11eb-8a7e-3fc1ade0f3ec.PNG)
 
 **git clone <저장소 주소> \[새로운 폴더명]**
 
@@ -507,7 +508,10 @@ GitHub에서 `fork`를 하는 방법은 간단합니다. 원본저장소에 들�
 `원격저장소의 브랜치와 커밋들을 로컬저장소와 동기화합니다. 옵션을 생략하면 모든 원격저장소에서 모든 브랜치를 가져옵니다.`
 
 ---
-# CLI - `Git`
+# Git의 명령어
+
+![git-reset1](https://user-images.githubusercontent.com/68052095/100332255-83952180-3014-11eb-8e97-4a6c2792cf01.PNG)
+![git-reset2](https://user-images.githubusercontent.com/68052095/100332257-83952180-3014-11eb-8cd9-7d6f78141964.PNG)
 
 **git reset \[파일명]**
 
@@ -515,45 +519,22 @@ GitHub에서 `fork`를 하는 방법은 간단합니다. 원본저장소에 들�
 - 워킹트리의 내용은 변경되지 않습니다. \[파일명] 옵션을 생략할 경우 스테이지의 모든 변경사항을 초기화합니다.
 - (soft, mixed, hard) 3가지의 옵션을 선택할 수 있으며, 옵션을 생략하고 사용할 경우 mixed reset으로 동작합니다.`
 
+---
+# Git의 명령어
+
+![git-reset3](https://user-images.githubusercontent.com/68052095/100332260-842db800-3014-11eb-88f1-7c0cf1ad3536.PNG)
+![git-reset4](https://user-images.githubusercontent.com/68052095/100332261-842db800-3014-11eb-8c8b-af73545ecbcc.PNG)
+
 **git reset --hard <이동할 커밋 체크섬>**
 
 `현재 브랜치를 지정한 커밋으로 옮깁니다. 이때, 작업 폴더의 내용도 함께 변경됩니다.`
 
 - `reset`은 현재 브랜치를 특정 커밋으로 되돌릴 때 사용합니다. 이 중에서 가장 많이 사용하는 `git reset --hard` 명령을 실행하면 현재 브랜치를 지정한 커밋으로 옮긴 후 해당 커밋의 내용을 작업 폴더에도 반영합니다.
 
->**커밋 체크섬 약칭**
->
->`HEAD~n<숫자>` : `HEAD~`은 헤드의 부모 커밋, `HEAD~2`는 헤드의 할아버지 커밋을 말한다. `HEAD~n`은 n번째 위쪽 조상이라는 뜻이다.
->
->`HEAD^<숫자>` : `HEAD^`은 똑같이 부모 커밋이다. 반면 `HEAD^2`는 두 번째 부모를 가르킨다. 병합 커밋처럼 부모가 둘 이상인 커밋에서만 의미가 있다.
-
 ---
-# CLI - `Git`
+# Git의 명령어
 
-**git config**
-
-`Git의 옵션을 보거나, 설정 값을 바꿀 수 있습니다.`
-
-**`옵션 설정 값 확인`**
-- config <--global> <옵션명>
-- config <--local> <옵션명>
-- config <--system> <옵션명>
-
-**`옵션 설정 값 지정`**
-- config <--global> <옵션명> <새로운 값>
-- config <--local> <옵션명> <새로운 값>
-- config <--system> <옵션명> <새로운 값>
-
-**`옵션 설정 값 제거`**
-- config <--global> --unset <옵션명>
-- config <--local> --unset <옵션명>
-- config <--system> --unset <옵션명>
-
-**`설정된 모든 옵션리스트 표시`**
-- config --list
-
----
-# CLI - `Git`
+![git-branch1](https://user-images.githubusercontent.com/68052095/100332280-8bed5c80-3014-11eb-96da-38dd78b612f7.PNG)
 
 **git branch**
 
@@ -568,42 +549,9 @@ GitHub에서 `fork`를 하는 방법은 간단합니다. 원본저장소에 들�
 
 `새로운 브랜치를 생성합니다. 커밋체크섬 값을 주지 않으면 HEAD로부터 브랜치를 생성합니다. 이미 있는 브랜치를 다른 커밋으로 옮기고 싶을 때는 [-f] 옵션을 줘야 합니다.`
 
-**git branch -r\[v]** 
-
-`원격저장소에 있는 브랜치를 보고 싶을 때 사용합니다. 마찬가지로 \[-v] 옵션을 추가하여 커밋 요약도 볼 수 있습니다.`
-
 **git checkout <브랜치이름>** 
 
 `특정 브랜치로 체크아웃할 때 사용합니다. 브랜치 이름 대신 커밋 체크섬을 쓸 수 있습니다. 하지만 브랜치 이름을 쓰는 방법을 강력히 권장합니다.`
-
-**git checkout -b <브랜치이름> <커밋 체크섬>** 
-
-`특정 커밋에서 브랜치를 새로 생성하고 동시에 체크아웃까지 합니다. 두 명령을 하나로 합친 명령이기 때문에 간결해서 자주 사용합니다.`
-
-**git checkout <커밋 체크섬>**
-
-`실행시 HEAD와 브랜치가 분리되는 Detached HEAD 상황이 됩니다. 이 상황에서도 여전히 커밋을 생성할 수 있지만 다른 브랜치로 체크아웃하는 순간 Detached HEAD의 커밋들은 다 사라져서 안 보이게 됩니다.(사실 커밋은 여전히 로컬저장소에 남아있기 때문에 이후에 설명할 git reflog 명령으로 복구할 수 있지만 권장하지 않는 작업 방법입니다.)`
-
-**git merge <대상 브랜치>** 
-
-`지정한 브랜치의 커밋들을 현재 브랜치 및 워킹트리에 반영합니다.`
-
-- 현재 브랜치와 대상 브랜치를 병합할 때 사용합니다. `병합 커밋(merge commit)`이 새로 생기는 경우가 많습니다.
-- `Fast-forward(빨리 감기) 병합`은 작업의 흐름이 하나일때 할 수 있습니다.
-- 충돌시 **`git merge --abort`** 명령을 통해 `병합(merge)을 취소`할 수도 있습니다.
-
->#### 충돌 발생시 해결 과정
-1. 목적에 맞게 충돌 파일 수정.
-2. git add <충돌 파일>.
-3. git status 명령어를 통해 충돌해결 확인.
-4. git commit 명령어를 통해 merge commit 생성.
-5. git log 명령어를 통해 merge 로그 확인 및 충돌 해결 완료.
-
-
-**git rebase <대상 브랜치>** 
-
-`내 브랜치의 커밋들을 대상 브랜치에 재배치시킵니다. 히스토리가 깔끔해져서 자주 사용하지만 조심해야합니다.
-이유는 추후에 설명합니다.`
 
 **git branch -d <브랜치이름>** 
 
@@ -613,59 +561,70 @@ GitHub에서 `fork`를 하는 방법은 간단합니다. 원본저장소에 들�
 
 `브랜치를 강제로 삭제하는 명령입니다. \[-d] 로 삭제할 수 없는 브랜치를 지우고 싶을 때 사용합니다. 역시 조심해야 합니다.`
 
-**git revert <커밋 체크섬>**
+---
+# Git의 명령어
 
-`커밋을 되돌려 커밋하기 이전의 상태로 돌아갑니다.`
+**git merge <대상 브랜치>** 
 
-**git rebase <대상 브랜치>**
+`지정한 브랜치의 커밋들을 현재 브랜치 및 워킹트리에 반영합니다.`
 
-`현재 브랜치에만 있는 새로운 커밋을 대상 브랜치 위로 재배치시킵니다.`
-- 현재 브랜치에 재배치할 커밋이 없을 경우 **rebase**는 아무런 동작을 하지 않습니다. 또한, 빨리 감기 병합이 가능한 경우에는 **rebase** 명령을 수행하면 빨리 감기 병합을 합니다.
+- 현재 브랜치와 대상 브랜치를 병합할 때 사용합니다. `병합 커밋(merge commit)`이 새로 생기는 경우가 많습니다.
+- `Fast-forward(빨리 감기) 병합`은 작업의 흐름이 하나일때 할 수 있습니다.
+- 충돌시 **`git merge --abort`** 명령을 통해 `병합(merge)을 취소`할 수도 있습니다.
 
 ---
-# CLI - `Git` 
+# Git의 명령어
 
-**git tag -a -m <간단한 메시지> <태그 이름> \[브랜치 또는 체크섬]**
+### 충돌이란?
 
-`-a 로 주석 있는(annotated) 태그를 생성합니다. 메시지와 태그 이름은 필수이며 브랜치 이름을 생략하면 HEAD에 태그를 생성합니다.`
+![merge-conflict0](https://user-images.githubusercontent.com/68052095/100337105-52b7eb00-301a-11eb-80c3-8aa444926071.png)
+![merge conflict](https://user-images.githubusercontent.com/68052095/100242917-ab36ac00-2f78-11eb-97a4-6aefce3cf470.png)
 
-**git push <원격저장소 별명> <태그 이름>**
-
-`원격 저장소에 태그를 업로드합니다.`
-
----
-# CLI - `Git`
-
-**git help <명령어>**
-
-`도움말 기능. 웹 브라우저가 열리면서 해당 명령어에 대한 내용이 표시됩니다.`
-
-- git help status
-- git help commit
-- git help add
-- etc...
-
-**이 외에도 다양한 명령어들이 있습니다. 궁금하신 분은 추가적으로 공부하시길 바랍니다.**
+- 이미지 출처 : [Merge Conflicts](https://ao.gl/cant-pull-a-git-branch-because-of-merge-conflicts/)
 
 ---
-# GUI
+# Git의 명령어
 
-### 각종 GUI 클라이언트의 로고들
+### 충돌 발생시 해결 과정
 
-![GitHub Desktop logo](https://user-images.githubusercontent.com/68052095/95226078-7ab77900-0837-11eb-8623-77a6abdca2ce.png)
-![sourcetree logo](https://user-images.githubusercontent.com/68052095/95226145-90c53980-0837-11eb-9d28-356c11996866.jpg)
-![GitKraken logo](https://user-images.githubusercontent.com/68052095/95226228-a5a1cd00-0837-11eb-9cdd-95efb65b4073.png)
-![smartGit logo](https://user-images.githubusercontent.com/68052095/95226571-12b56280-0838-11eb-8f81-1a1706767b80.jpg)
+![merge-conflict2](https://user-images.githubusercontent.com/68052095/100337108-52b7eb00-301a-11eb-9173-724c5f3cc685.PNG)
+![merge-conflict3](https://user-images.githubusercontent.com/68052095/100337109-53508180-301a-11eb-97e2-3e6603f82e3d.PNG)
+
+1. 목적에 맞게 충돌 파일 수정.
 
 ---
-# GUI - `SourceTree`
+# Git의 명령어
+
+### 충돌 발생시 해결 과정
+
+![merge-conflict5](https://user-images.githubusercontent.com/68052095/100337113-53e91800-301a-11eb-969a-fbb4127506f5.PNG)
+
+2. git add <충돌 파일>.
+3. git status 명령어를 통해 충돌해결 확인.
+4. git commit 명령어를 통해 merge commit 생성.
+5. git log 명령어를 통해 merge 로그 확인 및 충돌 해결 완료.
+
+---
+# Git의 명령어
+
+- **git switch**
+- **git restore**
+- **git cherry-pick**
+- **git revert**
+
+**이 외에도 다양한 명령어들과 옵션들이 있습니다. 궁금하신 분은 추가적으로 공부하시길 바랍니다.**
+
+---
+# SourceTree
 
 ### GUI 클라이언트 중의 하나인 소스트리
 
 ![sourcetree](https://user-images.githubusercontent.com/68052095/95224756-06c8a100-0836-11eb-83bc-a5e0ee976975.png)
 
+- 이미지 출처 : [Atlassian - SourceTree](https://www.atlassian.com/ko/software/sourcetree)
+
 ---
-# GUI - `SourceTree`
+# SourceTree
 
 ### Local 버튼
 
@@ -676,7 +635,7 @@ GitHub에서 `fork`를 하는 방법은 간단합니다. 원본저장소에 들�
 ![Local button](https://user-images.githubusercontent.com/68052095/95229019-07176b00-083b-11eb-92d8-9d2af7e82871.PNG)
 
 ---
-# GUI - `SourceTree`
+# SourceTree
 
 ### Remote 버튼
 
@@ -687,7 +646,7 @@ CLI의 `git remote` 명령어와 동일한 역할을 수행합니다.
 ![Remote button](https://user-images.githubusercontent.com/68052095/95229025-08489800-083b-11eb-8eae-5f1baea8e292.PNG)
 
 ---
-# GUI - `SourceTree`
+# SourceTree
 
 ### Clone 버튼
 
@@ -698,7 +657,7 @@ CLI의 `git clone` 명령어와 동일한 역할을 수행합니다.
 ![Clone button](https://user-images.githubusercontent.com/68052095/95229029-08e12e80-083b-11eb-90ae-74e9d97154e5.PNG)
 
 ---
-# GUI - `SourceTree`
+# SourceTree
 
 ### Add 버튼
 
@@ -707,7 +666,7 @@ CLI의 `git clone` 명령어와 동일한 역할을 수행합니다.
 ![Add button](https://user-images.githubusercontent.com/68052095/95229026-08489800-083b-11eb-99d7-0c8cfb7208d0.PNG)
 
 ---
-# GUI - `SourceTree`
+# SourceTree
 
 ### Create 버튼
 
@@ -718,7 +677,7 @@ CLI의 `git init` 명령어와 동일한 역할을 수행합니다.
 ![Create button](https://user-images.githubusercontent.com/68052095/95229030-0979c500-083b-11eb-86bd-28323e283d44.PNG)
 
 ---
-# GUI - `SourceTree`
+# SourceTree
 
 ### Clone, Add, Create 완료시 진입화면
  - 기본적으로 좌측의 `file status`가 선택되어져 있는 상태입니다.
@@ -727,7 +686,7 @@ CLI의 `git init` 명령어와 동일한 역할을 수행합니다.
 ![sourcetree main](https://user-images.githubusercontent.com/68052095/95229595-b8b69c00-083b-11eb-9d30-ee5e1c5f60ef.PNG)
 
 ---
-# GUI - `SourceTree`
+# SourceTree
 
 ### `Commit`
  - 새롭게 적용할 수 있는 변경점이 있으면 숫자로 알려줍니다.
@@ -735,7 +694,7 @@ CLI의 `git init` 명령어와 동일한 역할을 수행합니다.
 ![sourcetree_commit](https://user-images.githubusercontent.com/68052095/95289898-e5ec6400-08a6-11eb-888b-67a26b7bccbc.png)
  
 ---
-# GUI - `SourceTree`
+# SourceTree
 
 ### `staged files`
  - `Staging Area`에 올라간 파일들을 표시합니다.
@@ -743,7 +702,7 @@ CLI의 `git init` 명령어와 동일한 역할을 수행합니다.
 ![sourcetree_commit](https://user-images.githubusercontent.com/68052095/95289898-e5ec6400-08a6-11eb-888b-67a26b7bccbc.png)
 
 ---
-# GUI - `SourceTree`
+# SourceTree
 
 ### `unstaged files`
  - `Staging Area`에 올라가지 않은(작업공간에만 존재하는) 파일들을 표시합니다.
@@ -751,7 +710,7 @@ CLI의 `git init` 명령어와 동일한 역할을 수행합니다.
 ![sourcetree_commit](https://user-images.githubusercontent.com/68052095/95289898-e5ec6400-08a6-11eb-888b-67a26b7bccbc.png)
 
 ---
-# GUI - `SourceTree`
+# SourceTree
 
 ### `아래쪽의 네모박스` 및 `commit 버튼`
  - `네모박스`는 `commit 메시지`를 작성하는 공간입니다.
@@ -760,7 +719,7 @@ CLI의 `git init` 명령어와 동일한 역할을 수행합니다.
 ![sourcetree_commit](https://user-images.githubusercontent.com/68052095/95289898-e5ec6400-08a6-11eb-888b-67a26b7bccbc.png)
 
 ---
-# GUI - `SourceTree`
+# SourceTree
 
 ### `pull`
 - 작업이력을 받아올 `원격저장소` 및 `브랜치`를 선택할 수 있습니다.
@@ -769,7 +728,7 @@ CLI의 `git init` 명령어와 동일한 역할을 수행합니다.
 ![sourcetree_pull](https://user-images.githubusercontent.com/68052095/95290380-141e7380-08a8-11eb-8e3f-2706f073dd48.PNG)
 
 ---
-# GUI - `SourceTree`
+# SourceTree
 
 ### `fetch`
 
@@ -781,7 +740,7 @@ CLI의 `git init` 명령어와 동일한 역할을 수행합니다.
 ![sourcetree_fetch](https://user-images.githubusercontent.com/68052095/95290386-154fa080-08a8-11eb-9b00-f4ad0c887dbb.PNG)
 
 ---
-# GUI - `SourceTree`
+# SourceTree
 
 ### `push`
 
@@ -792,7 +751,7 @@ CLI의 `git init` 명령어와 동일한 역할을 수행합니다.
 
 
 ---
-# GUI - `SourceTree`
+# SourceTree
 
 ### `branch`
 
@@ -802,7 +761,7 @@ CLI의 `git init` 명령어와 동일한 역할을 수행합니다.
 ![sourcetree_branch](https://user-images.githubusercontent.com/68052095/95290899-51cfcc00-08a9-11eb-8ce3-1a3337e6bbbb.PNG)
 
 ---
-# GUI - `SourceTree`
+# SourceTree
 
 ### `merge`
 
@@ -812,7 +771,7 @@ CLI의 `git init` 명령어와 동일한 역할을 수행합니다.
 ![sourcetree_merge](https://user-images.githubusercontent.com/68052095/95290901-5300f900-08a9-11eb-9b9f-1cdbceb55e42.PNG)
 
 ---
-# GUI - `SourceTree`
+# SourceTree
 
 ### `history`
 
@@ -822,7 +781,7 @@ CLI의 `git init` 명령어와 동일한 역할을 수행합니다.
 ![sourcetree_history](https://user-images.githubusercontent.com/68052095/95291498-a293f480-08aa-11eb-8f1b-563aca83cb6f.PNG)
 
 ---
-# GUI - `SourceTree`
+# SourceTree
 
 ### `search`
 
@@ -831,7 +790,7 @@ CLI의 `git init` 명령어와 동일한 역할을 수행합니다.
 ![sourcetree_search](https://user-images.githubusercontent.com/68052095/95291253-108bec00-08aa-11eb-8e03-5cb8e6eb4106.PNG)
 
 ---
-# GUI - `SourceTree`
+# SourceTree
 
 ### `side menu - BRANCHES` 
 
@@ -841,7 +800,7 @@ CLI의 `git init` 명령어와 동일한 역할을 수행합니다.
 ![sourcetree_side_menu](https://user-images.githubusercontent.com/68052095/95291900-690fb900-08ab-11eb-93c8-514c06d7ba86.PNG)
 
 ---
-# GUI - `SourceTree`
+# SourceTree
 
 ### `side menu - TAGS` 
 
@@ -851,7 +810,7 @@ CLI의 `git init` 명령어와 동일한 역할을 수행합니다.
 ![sourcetree_side_menu](https://user-images.githubusercontent.com/68052095/95291900-690fb900-08ab-11eb-93c8-514c06d7ba86.PNG)
 
 ---
-# GUI - `SourceTree`
+# SourceTree
 
 ### `side menu - REMOTES` 
 
@@ -875,6 +834,8 @@ CLI의 `git init` 명령어와 동일한 역할을 수행합니다.
 
 ![gitignore](https://user-images.githubusercontent.com/68052095/95292654-df60eb00-08ac-11eb-9afb-69d8bbc2298c.PNG)
 
+- 이미지 출처 : [.gitignore.io](https://www.toptal.com/developers/gitignore)
+
 ---
 # .gitignore
 
@@ -886,13 +847,13 @@ CLI의 `git init` 명령어와 동일한 역할을 수행합니다.
 - **이미 추가되어 버전 관리중인 파일에는 영향을 미치지 않으며** 새로 add 할 경우에만 적용됩니다.
 
 >filename
-
+>
 >*.class
-
+>
 >*.jar
-
+>
 >folder/*
-
+>
 >\# 주석내용
 
 ---
@@ -904,12 +865,12 @@ CLI의 `git init` 명령어와 동일한 역할을 수행합니다.
   - 여기서 **`force`**는 `강제로`라는 의미를 가집니다.
 
 >git add -f file
-
-- `.gitignore`에 설정한 정보는 하위 폴더에도 적용됩니다.
-- 만약 특정 하위 폴더만 다르게 관리하고 싶다면 해당 폴더에 `.gitignore`를 만들면 됩니다.
-- `!`는 이전 패턴을 무효화하는 특별한 의미의 문자열입니다.
-- 만약 파일명에 `!`가 들어갈 경우 `\`를 `!`앞에 붙여주면 됩니다.
-
+>
+>- `.gitignore`에 설정한 정보는 하위 폴더에도 적용됩니다.
+>- 만약 특정 하위 폴더만 다르게 관리하고 싶다면 해당 폴더에 `.gitignore`를 만들면 됩니다.
+>- `!`는 이전 패턴을 무효화하는 특별한 의미의 문자열입니다.
+>- 만약 파일명에 `!`가 들어갈 경우 `\`를 `!`앞에 붙여주면 됩니다.
+>
 >* (모든 파일을 무시)
 >!file (예외로 file만 버전관리 하겠다는 의미)
 
@@ -954,7 +915,7 @@ CLI의 `git init` 명령어와 동일한 역할을 수행합니다.
 
 ### 사용법
 
-5. 특별히 버전관리 대상에서 제외하고 싶은 디렉터리 또는 파일이 있다면 패턴에 맞춰서 입력해주면 됩니다.
+5. 특별히 버전관리 대상에서 제외하고 싶은 디렉터리 또는 파일이 있다면 패턴에 맞춰서 입력해준 뒤 커밋과 푸쉬를 해주면 패턴에 해당하는 파일이 버전관리 대상에서 제외됩니다.
 
 ![gitignore6](https://user-images.githubusercontent.com/68052095/95304818-20aec600-08c0-11eb-9e5d-ca5b8f6a953d.PNG)
 
@@ -964,6 +925,9 @@ CLI의 `git init` 명령어와 동일한 역할을 수행합니다.
 - 팀 개발을 위한 Git, GitHub 시작하기 초판
 - [Git](https://git-scm.com/book/en/v2)
 - [GitHub](https://docs.github.com/en)
+
+---
+# [강의 자료 링크](https://github.com/banjjoknim/RectureForGit)
 
 ---
 
